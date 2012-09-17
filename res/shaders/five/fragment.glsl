@@ -1,0 +1,26 @@
+#ifdef GL_ES_VERSION_2_0
+    #ifdef GL_FRAGMENT_PRECISION_HIGH
+    precision highp float;           
+    #else                          
+    precision mediump float;        
+    #endif                         
+
+#else
+    // Ignore GLES 2 precision specifiers:
+    #define lowp
+    #define mediump
+    #define highp
+#endif
+//_________________________________________________________
+
+
+varying vec3 v_Color;
+varying float test;
+
+void main(void) {
+
+	gl_FragColor = vec4(v_Color, 1.0);
+	
+	
+
+}

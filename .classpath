@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/ibxm.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/jinput.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/lwjgl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/goncalo/Downloads/lwjgl-2.8.4/javadoc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/goncalo/workspace41/LWJGL_LIB/lib/natives-linux"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/lwjgl_util.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/goncalo/Downloads/lwjgl-2.8.4/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/lzma.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/PNGDecoder.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/slick-util.jar"/>
+	<classpathentry kind="lib" path="/home/goncalo/workspace41/LWJGL_LIB/lib/jars/slick-util-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
